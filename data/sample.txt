@@ -1,0 +1,4 @@
+Transformers are deep learning models introduced in 2017.
+They are based on attention mechanisms.
+Attention was introduced in earlier sequence-to-sequence models.
+RNNs were used before transformers.
